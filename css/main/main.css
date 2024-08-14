@@ -116,7 +116,7 @@ header .inner .txtBox a {
   height: 900px;
   /* align-items: center; */
   justify-content: center;
-  /* background: url(/hellokitty/image/main/sec01.png) #FEF6FF 0px 0px / 100% 100% no-repeat; */
+  /* background: url(/hellokitty_project/image/main/sec01.png) #FEF6FF 0px 0px / 100% 100% no-repeat; */
 }
 .sec01 .inner .mySwiper .swiper-wrapper img {
   width: 755px;
@@ -297,7 +297,7 @@ header .inner .txtBox a {
   width: 100%;
   height: 510px;
   display: flex;
-  background: url(/hellokitty/image/main/sec03-1.png) lightgray 0px 0px / 100% 100% no-repeat;
+  background: url(/hellokitty_project/image/main/sec03-1.png) lightgray 0px 0px / 100% 100% no-repeat;
   align-items: flex-start;
   justify-content: center;
   padding: 60px;
