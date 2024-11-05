@@ -147,11 +147,11 @@ header .inner .txtBox a {
 .sec02 {
   font-family: Arial, sans-serif;
   margin: 0;
-  padding: 0;
+  padding: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 100%;
   background-color: #fff8f8;
 }
 .sec02 .container {
